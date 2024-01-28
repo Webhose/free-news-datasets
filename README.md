@@ -1,8 +1,10 @@
 # Webz.io News Dataset Repository
 
+![webz.io Logo ](webz_logo.png)
+
 ## Introduction
 
-Welcome to the Webz.io News Dataset Repository! This repository is created by Webz.io and is dedicated to providing free datasets of publicly available news articles. We release new datasets weekly, each containing around 1,000 news articles focused on various themes, topics, or metadata characteristics like sentiment analysis, and top IPTC categories such as finance, sports, and politics.
+Welcome to the [Webz.io](https://webz.io) News Dataset Repository! This repository is created by [Webz.io](https://webz.io) and is dedicated to providing free datasets of publicly available news articles. We release new datasets weekly, each containing around 1,000 news articles focused on various themes, topics, or metadata characteristics like sentiment analysis, and top IPTC categories such as finance, sports, and politics.
 
 ## Dataset Overview
 
