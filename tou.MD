@@ -1,4 +1,4 @@
-Simplified Terms of Use
+## Simplified Terms of Use
 
 Since we don’t like wading through pages of legal documents any more than you do, we have provided a summary of the ToU below. Scroll further down for the full legally-binding terms.
 
