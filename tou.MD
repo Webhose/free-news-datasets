@@ -46,7 +46,7 @@ If you know of a violation of the ToU, you can report it to us at:
 Webz.io LTD
 B.S.R Tower 4, 7 Mesada st. Bnei Brak, Tel Aviv District, POB 105 ISRAEL 5126112
 
-Full Terms of Use
+## Full Terms of Use
 
 LAST UPDATED: January 1sh, 2024
 
