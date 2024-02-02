@@ -35,7 +35,9 @@ Contributions are welcome! If you have suggestions or want to contribute, please
 
 For questions or support, raise an issue in the repository.
 
+## License/Terms of Use
 
+By using the Dataset Repository you agree to the following [TOU](https://github.com/Webhose/free-news-datasets/blob/master/tou.MD).
 ---
 
 
