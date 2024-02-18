@@ -26,6 +26,7 @@ The datasets are free for academic, research, and journalistic purposes:
 - Browse the repository.
 - Find a dataset that suits your needs.
 - Download the dataset with its detailed description and metadata file.
+- We created a [simple React application](https://webhose.github.io/free-news-datasets/) that you can use to preview the data
 
 ## Contribution
 
