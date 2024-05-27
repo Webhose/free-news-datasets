@@ -6,6 +6,8 @@
 
 Welcome to the [Webz.io](https://webz.io) News Dataset Repository! This repository is created by [Webz.io](https://webz.io) and is dedicated to providing free datasets of publicly available news articles. We release new datasets weekly, each containing around 1,000 news articles focused on various themes, topics, or metadata characteristics like sentiment analysis, and top IPTC categories such as finance, sports, and politics.
 
+For free news data access, visit our [free News API](https://webz.io/products/news-api#lite) Lite page
+
 ## Dataset Overview
 
 - **Weekly Releases:** New dataset available every week.
